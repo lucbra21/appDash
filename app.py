@@ -14,7 +14,7 @@ df = pd.DataFrame({
 
 # Definimos el layout de la aplicación
 app.layout = html.Div([
-    html.H1('Mi Primera Aplicación en Dash',
+    html.H1('Mi Segunda Aplicación en Dash',
             style={'textAlign': 'center', 'color': '#2c3e50'}),
     
     html.Div([
